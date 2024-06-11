@@ -1,2 +1,1 @@
-alpine
-python:slim-bullseye
+nginx:stable-alpine3.19-perl
