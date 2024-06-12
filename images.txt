@@ -1,1 +1,1 @@
-nginx:stable-alpine3.19-perl
+autumn27/scopesentry:v1.1
