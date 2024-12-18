@@ -1,5 +1,7 @@
 name: Docker
 
+schedule:
+  -cron: '00 23 * * *'
 on:
   workflow_dispatch:
   push:
