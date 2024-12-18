@@ -1,1 +1,8 @@
-autumn27/scopesentry:v1.1
+#postgres
+docker pull postgres
+
+#goalng
+docker pull golang
+
+#alpine
+docker pull alpine
